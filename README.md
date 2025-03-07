@@ -45,7 +45,7 @@
 
 2. 点击"Next"，导入成功
 
-![3](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307012519979.webp)
+![3](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250308003410006.webp)
 
 3. 将`用于发送短信的数据包`右键请求内容 → "Extensions" → "SMS Bomb Fuzzer" → "Send to SMS Bomb Fuzzer"
 
