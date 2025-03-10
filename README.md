@@ -57,4 +57,4 @@
 
 ## 技术交流
 
-<img src="https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250302013341481.webp" alt="yuzi" style="zoom:100%;" />
+<img src="https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250310153949879.webp" alt="SMS_Bomb_Fuzzer技术交流" style="zoom:100%;" />
