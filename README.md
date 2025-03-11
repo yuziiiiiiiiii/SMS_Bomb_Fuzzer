@@ -22,7 +22,7 @@
 
 * 参数污染
 * 参数复用
-* 填充垃圾字符
+* 垃圾字符
 * 特殊字符
 * 号码区号
 * 接口遍历
@@ -31,15 +31,25 @@
 
 ## 插件描述
 
+### 2025-03-11更新
+#### SMS Bomb Fuzzer V2.0
+* 增加`GET`请求中路径的检测和测试，覆盖更多场景
+
+![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250311235707242.webp)
+
+* 增加了更多的绕过和变形手法（如有未涉及的绕过和变形，欢迎提交issues！）
+
+**********
+
 * 支持`Json`格式。
 * 支持自定义 `number` 用于测试接收。
 * 支持 `GET、POST、JSON、Cookie` 请求中的参数测试。
-* 支持手动开启或关闭短信接口的测试和组合测试选项（开启后会发送大量测试paylaod）
-* 支持白名单功能
+* 支持手动开启或关闭`短信接口测试`和`组合测试`选项（开启后会发送大量测试paylaod）
+* 支持`白名单`功能
 
 ## 安装使用
 
-1. 直接进行导入BurpSuite
+1. 下载`Releases`中的`SMS_Bomb_Fuzzer.jar`，然后将jar文件导入BurpSuite
 
 ![2](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307012034724.webp)
 
