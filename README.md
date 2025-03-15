@@ -22,18 +22,32 @@
 
 * 参数污染
 * 参数复用
+* 参数编码
 * 垃圾字符
 * 特殊字符
 * 号码区号
 * 接口遍历
 * 组合测试
+* XFF伪造
 * ......
 
 ## 插件描述
 
+### 2025-03-16更新
+#### SMS Bomb Fuzzer V2.1
+* 增加对number包含`*`或`+86`等情况的支持，覆盖更多场景！
+
+![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250316012811196.webp)
+
+![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250316012843443.webp)
+
+* 增加了更多的绕过和变形手法（如有未涉及的绕过和变形，欢迎提交issues！）
+
+**********
+
 ### 2025-03-11更新
 #### SMS Bomb Fuzzer V2.0
-* 增加`GET`请求中路径的检测和测试，覆盖更多场景
+* 增加`GET`请求中路径的检测和测试，覆盖更多场景！
 
 ![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250311235707242.webp)
 
