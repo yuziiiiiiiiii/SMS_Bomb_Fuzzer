@@ -81,4 +81,5 @@
 
 ## 技术交流
 
-![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250316013514867.webp)
+![c9b7a564fe536d692191c63353481b6](https://github.com/user-attachments/assets/db515989-0e0e-49d2-884d-1f6398dc4ee7)
+
