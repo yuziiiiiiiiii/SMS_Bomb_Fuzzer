@@ -81,5 +81,6 @@
 
 ## 技术交流
 
-![c9b7a564fe536d692191c63353481b6](https://github.com/user-attachments/assets/db515989-0e0e-49d2-884d-1f6398dc4ee7)
+![qr-SMS_Bomb_Fuzzer-2025-03-30_08-33-14-367](https://github.com/user-attachments/assets/d842d1a5-79bd-4fda-b62c-fd0019d0cd3f)
+
 
