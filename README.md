@@ -16,7 +16,7 @@
 
 本Burp Suite插件专为短信轰炸漏洞检测设计，提供自动化Fuzz测试！
 
-![1](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307005532861.webp)
+![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307005532861.webp)
 
 🛡️ 绕过手段包含但不限于以下：
 
@@ -32,6 +32,18 @@
 * ......
 
 ## 插件描述
+
+### 2025-04-25更新
+#### SMS Bomb Fuzzer V3.0
+* 新增停止按钮，可以随时停止正在测试中的项目，防封！
+
+![](https://github.com/user-attachments/assets/572ea117-caa7-46b2-b949-043f9ab4f6e2)
+
+* 新增参数自定义FUZZ功能，每当`Send to SMS Bomb Fuzzer`后会弹出选择参数窗口
+
+![](https://github.com/user-attachments/assets/b25a6734-07da-4707-81cd-9a18d1479ee6)
+
+**********
 
 ### 2025-03-16更新
 #### SMS Bomb Fuzzer V2.1
@@ -65,11 +77,11 @@
 
 1. 下载`Releases`中的`SMS_Bomb_Fuzzer.jar`，然后将jar文件导入BurpSuite
 
-![2](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307012034724.webp)
+![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307012034724.webp)
 
 2. 点击"Next"，导入成功
 
-![3](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250308003410006.webp)
+![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250308003410006.webp)
 
 3. 将`用于发送短信的数据包`右键请求内容 → "Extensions" → "SMS Bomb Fuzzer" → "Send to SMS Bomb Fuzzer"
 
@@ -77,10 +89,8 @@
 
 4. 开始测试并分析响应（测试完成状态会变化）
 
-![5](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307005532861.webp)
+![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307005532861.webp)
 
 ## 技术交流
 
-![qr-SMS_Bomb_Fuzzer-2025-03-30_08-33-14-367](https://github.com/user-attachments/assets/d842d1a5-79bd-4fda-b62c-fd0019d0cd3f)
-
-
+![qr-SMS_Bomb_Fuzzer-2025-04-24_16-55-54-880](https://github.com/user-attachments/assets/188e66a4-3ba2-4816-b0d2-d353832e3c35)
