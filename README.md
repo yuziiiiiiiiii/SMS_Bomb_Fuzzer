@@ -16,7 +16,8 @@
 
 本Burp Suite插件专为短信轰炸漏洞检测设计，提供自动化Fuzz测试！
 
-![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307005532861.webp)
+<img width="3167" height="1305" alt="PixPin_2026-05-25_21-06-01" src="https://github.com/user-attachments/assets/8e463a70-3670-41e4-98a8-92b998666afa" />
+
 
 🛡️ 绕过手段包含但不限于以下：
 
@@ -32,6 +33,18 @@
 * ......
 
 ## 插件描述
+
+### 2026-05-25更新
+#### SMS Bomb Fuzzer V4.0
+- 新增选择性测试FUZZ模式，用户可以自行选择需要的测试CASE进行FUZZ
+
+<img width="1476" height="917" alt="PixPin_2026-05-25_21-05-06" src="https://github.com/user-attachments/assets/5574cec2-3237-4dd3-90a7-9fb48d7b8e71" />
+
+- 测试列表中无用数据可以进行删除
+
+- 优化UI和部分处理逻辑，体验更佳！
+
+**********
 
 ### 2026-05-25更新
 #### SMS Bomb Fuzzer V3.2
