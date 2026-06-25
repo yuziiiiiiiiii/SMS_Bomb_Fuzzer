@@ -120,6 +120,3 @@
 
 ![](https://gitee.com/yuziiiiiiiiii/blog/raw/master/img/20250307005532861.webp)
 
-## 技术交流
-
-![qr-SMS_Bomb_Fuzzer-2025-04-24_16-55-54-880](https://github.com/user-attachments/assets/188e66a4-3ba2-4816-b0d2-d353832e3c35)
